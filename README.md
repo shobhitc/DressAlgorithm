@@ -1,3 +1,3 @@
 # DressAlgorithm
-Implementation of Dress Algorithm
-The algorithm reads the medical data set and performs feature selection
+Implementation of Dress Algorithm.
+The algorithm performs feature selection on medical data set to extract important features, that would be used to classify patients with fatty liver.
